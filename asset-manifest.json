@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart/static/css/main.93a604a6.chunk.css",
+    "main.js": "/Shopping-Cart/static/js/main.112dcd9a.chunk.js",
+    "main.js.map": "/Shopping-Cart/static/js/main.112dcd9a.chunk.js.map",
+    "runtime-main.js": "/Shopping-Cart/static/js/runtime-main.06ede501.js",
+    "runtime-main.js.map": "/Shopping-Cart/static/js/runtime-main.06ede501.js.map",
+    "static/js/2.812d9047.chunk.js": "/Shopping-Cart/static/js/2.812d9047.chunk.js",
+    "static/js/2.812d9047.chunk.js.map": "/Shopping-Cart/static/js/2.812d9047.chunk.js.map",
+    "index.html": "/Shopping-Cart/index.html",
+    "static/css/main.93a604a6.chunk.css.map": "/Shopping-Cart/static/css/main.93a604a6.chunk.css.map",
+    "static/js/2.812d9047.chunk.js.LICENSE.txt": "/Shopping-Cart/static/js/2.812d9047.chunk.js.LICENSE.txt",
+    "static/media/apple.3e53cf26.png": "/Shopping-Cart/static/media/apple.3e53cf26.png",
+    "static/media/chain.0dd65edf.png": "/Shopping-Cart/static/media/chain.0dd65edf.png",
+    "static/media/cognac.8da1eadd.png": "/Shopping-Cart/static/media/cognac.8da1eadd.png",
+    "static/media/kitten.11c0ff06.png": "/Shopping-Cart/static/media/kitten.11c0ff06.png",
+    "static/media/mango.41a3ae8f.png": "/Shopping-Cart/static/media/mango.41a3ae8f.png",
+    "static/media/monkey.f01b7b32.png": "/Shopping-Cart/static/media/monkey.f01b7b32.png",
+    "static/media/orange.5d54b540.png": "/Shopping-Cart/static/media/orange.5d54b540.png",
+    "static/media/peach.f7a09311.png": "/Shopping-Cart/static/media/peach.f7a09311.png",
+    "static/media/puppy.0a255831.png": "/Shopping-Cart/static/media/puppy.0a255831.png",
+    "static/media/index.css": "/Shopping-Cart/static/media/shark.ea74365b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06ede501.js",
+    "static/js/2.812d9047.chunk.js",
+    "static/css/main.93a604a6.chunk.css",
+    "static/js/main.112dcd9a.chunk.js"
+  ]
+}
